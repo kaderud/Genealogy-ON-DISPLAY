@@ -24,10 +24,8 @@ C:\GOD> gwbasic.exe /s:256 menu.bas
 
 At the moment the following functions have been changed to export to a CSV-file:
 
-
-_**9 PRINTPER - Prints Detailed Information about Persons.**_ (Exports to **PRINTPER.csv**)
-
-_**10 PRINTMAR - Prints Detailed Information about Marriages.**_ (Exports to **PRINTMAR.csv**)
+**9 PRINTPER** - Prints Detailed Information about Persons. (Exports to **PRINTPER.csv**)
+**10 PRINTMAR** - Prints Detailed Information about Marriages. (Exports to **PRINTMAR.csv**)
 
 ## Source
 
@@ -37,9 +35,7 @@ This version was aquired from [archive.org/details/MicroCom_351_Geneology](https
 ## Screenshots
 
 _Welcome screen_
-
-![Welcome Screen](https://www.dropbox.com/s/mdosazdwe0trtel/god-welcomescreen.png?dl=1)
+![Welcome Screen](/img/god-welcomescreen.png)
 
 _Main screen_
-
-![Main Screen](https://ia803109.us.archive.org/33/items/MicroCom_351_Geneology/screenshot.png)
+![Main Screen](/img/god-mainscreen.png)
