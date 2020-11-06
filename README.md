@@ -35,7 +35,9 @@ This version was aquired from [archive.org/details/MicroCom_351_Geneology](https
 ## Screenshots
 
 _Welcome screen_
+
 ![Welcome Screen](/img/god-welcomescreen.png)
 
 _Main screen_
+
 ![Main Screen](/img/god-mainscreen.png)
